@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hola, soy AloncraftMC 🌟</h1>
+<h1 align="center">🌟 AloncraftMC 🌟</h1>
 <h3 align="center">Un tío que ama su tierra 🏘️🗣️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloncraftmc&label=Profile%20views&color=0e75b6&style=flat" alt="aloncraftmc" /> </p>
