@@ -1,11 +1,14 @@
 <h1 align="center">🌟 AloncraftMC 🌟</h1>
 <h3 align="center">Un tío que ama su tierra 🏘️🗣️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloncraftmc&label=Profile%20views&color=0e75b6&style=flat" alt="aloncraftmc" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aloncraftmc&label=Profile%20views&color=0e75b6&style=flat" alt="aloncraftmc" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="display: flex; flex-wrap: nowrap; gap: 10px; align-items: center;">
+<p align="left">
+<nobr>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
@@ -57,10 +60,17 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   </a>
-</div>
+</nobr>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloncraftmc&show_icons=true&locale=en&layout=compact" alt="aloncraftmc" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloncraftmc&show_icons=true&locale=en&layout=compact" alt="top-langs"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloncraftmc&show_icons=true&locale=en" alt="aloncraftmc" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aloncraftmc&show_icons=true&locale=en" alt="stats"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloncraftmc&" alt="aloncraftmc" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloncraftmc&" alt="streak"/>
+</p>
